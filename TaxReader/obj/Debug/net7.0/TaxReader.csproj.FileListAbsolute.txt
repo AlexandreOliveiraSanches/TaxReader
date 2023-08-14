@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\TaxReader\TaxReader\bin\Debug\net7.0\TaxReader.exe
+C:\codigos\projetos C#\TaxReader\TaxReader\bin\Debug\net7.0\TaxReader.deps.json
+C:\codigos\projetos C#\TaxReader\TaxReader\bin\Debug\net7.0\TaxReader.runtimeconfig.json
+C:\codigos\projetos C#\TaxReader\TaxReader\bin\Debug\net7.0\TaxReader.dll
+C:\codigos\projetos C#\TaxReader\TaxReader\bin\Debug\net7.0\TaxReader.pdb
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.AssemblyInfo.cs
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.dll
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\refint\TaxReader.dll
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.pdb
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\TaxReader.genruntimeconfig.cache
+C:\codigos\projetos C#\TaxReader\TaxReader\obj\Debug\net7.0\ref\TaxReader.dll
